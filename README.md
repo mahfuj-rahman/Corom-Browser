@@ -13,6 +13,8 @@ pip install PyQtWebEngine
 
 #by Team PENTAGON
 
+#Please see the 'main.py' file to see the project code.
+
 #--------Member's Information--------
 
 # Md. Mahfujur Rahman | ID: 192-15-13207
