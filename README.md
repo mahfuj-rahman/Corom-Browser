@@ -10,7 +10,9 @@ pip install PyQtWebEngine
 #----------In the name of ALLAH, The Rohim, The Rahman-----------
 
 #Project name: Corom Browser
+
 #by Team PENTAGON
+
 #--------Member's Information--------
 
 # Md. Mahfujur Rahman | ID: 192-15-13207
