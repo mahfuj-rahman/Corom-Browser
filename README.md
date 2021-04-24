@@ -13,7 +13,7 @@ pip install PyQtWebEngine
 
 #by Team PENTAGON
 
-#Please see the 'main.py' file to see the project code.
+#Please open 'main.py' file to see the project code.
 
 #--------Member's Information--------
 
